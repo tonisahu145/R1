@@ -2,7 +2,7 @@ import asyncio
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = '7476290877:AAExWFIp1d1OHNFECVV_N8isPpPocVY8RXs'
+TELEGRAM_BOT_TOKEN = '7476290877:AAEPCGa1-gYvEPLwqoEGNI5evOz7bqhd660'
 ADMIN_USER_ID = 6062735907
 APPROVED_IDS_FILE = 'approved_ids.txt'
 bgmi_in_progress = False
